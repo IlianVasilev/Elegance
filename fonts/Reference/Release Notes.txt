@@ -1,0 +1,33 @@
+Proxima Nova Regular v2.014
+November 07 2017
+
+Proxima Nova 2.014
+- Improved hinting on i and j (certain low ppm sizes of Bold were problematic on Windows), both OTF and TTF versions
+- Additional support for mark-to-base and mark-to-mark
+- Improvements and additions to accents
+- Improved accents for Vietnamese
+-'okina support added for Hawaiian
+
+file changes:
+Proxima Nova Regular v1.2 - UPDATED from v1.1
+
+----
+Proxima Nova Regular v3.012
+June 27 2017
+
+• Extensive additions to Cyrillic support, including support for Bulgarian, Serbian, and Macedonian variants.
+• A few additional Greek characters.
+• Underline thickness now matches weight. (Earlier versions used the same thickness for all weights.)
+• hhea vertical metrics are restored to pre-3.000 values. This mostly affects use on iOS.
+• Many small fixes and touch-ups.
+• I now include a Usage Notes PDF with the fonts.
+
+file changes:
+Proxima Nova Regular v1.1 - UPDATED from v1.0
+
+----
+Proxima Nova Regular v1.0
+December 07 2016
+
+files included:
+Proxima Nova Regular v1.0
